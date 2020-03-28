@@ -23,7 +23,7 @@ export default {
         item:{
           name:'',
           category:'',
-          addedBy:'Thangamani'
+          addedBy:'Rachel'
         },
         
         

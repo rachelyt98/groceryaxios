@@ -22,7 +22,7 @@ import Covid19 from '../covid19.js'
 
 export default {
     components:{
-        axiosExample,PSIIndex, Covid19
+        axiosExample,PSIIndex,Covid19
     }
     
 }
